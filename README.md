@@ -74,21 +74,21 @@ OPENAI_KEY=your_api_key_here
 ### 3. Run Transcript Fetcher
 
 ```
-python main_transcript.py <YOUTUBE_VIDEO_ID>
+python youtube_transcript.py <YOUTUBE_VIDEO_ID>
 ```
 
 Example:
 
 ```
-python main_transcript.py RwIspUe78Bg
+python youtube_transcript.py RwIspUe78Bg
 ```
 
 ### 4. Run Collocation Generator
 
 ```
-python collocation_ai.py
+python collocations_chatgpt_api.py
 ```
-
+    
 The script will:
 
 * Read the newest transcript.
