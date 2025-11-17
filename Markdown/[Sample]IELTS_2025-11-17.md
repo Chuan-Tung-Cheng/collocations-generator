@@ -1,0 +1,533 @@
+Below are collocations drawn from the transcript, organized by section. Each bullet includes an example sentence reflecting how the collocation appears or would naturally be used in this context.
+
+### Section 1 – Library volunteering and applications
+- be interested in doing (some) work
+  - Example: I’m interested in doing some work for the library.
+- the person to speak to
+  - Example: Are you the person to speak to about volunteering?
+- what sort of work
+  - Example: What sort of work are you interested in?
+- come to live (somewhere)
+  - Example: I’ve just come to live here in Australia.
+- full-time job
+  - Example: I don’t want a full-time job until my children have settled down.
+- settle down
+  - Example: I don’t want a full-time job until my children have settled down.
+- get out of the house
+  - Example: I really need to get out of the house a bit.
+- need voluntary workers
+  - Example: I heard you need voluntary workers for various projects.
+- have the right skills
+  - Example: I don’t know if I have the right skills.
+- provide training
+  - Example: Well, we do provide training.
+- include an orientation (to)
+  - Example: We always include an orientation to the library together with emergency procedures.
+- emergency procedures
+  - Example: We include emergency procedures: fire regulations, emergency exits, first aid.
+- fire regulations
+  - Example: Orientation covers fire regulations.
+- emergency exits
+  - Example: You’ll learn about emergency exits in the orientation.
+- first aid
+  - Example: We cover first aid so you can cope with accidents or sudden illness.
+- cope with (accidents/illness)
+  - Example: First aid helps you cope with accidents or sudden illness.
+- work with the public
+  - Example: These procedures are necessary for anyone who’s working with the public.
+- specialist training
+  - Example: Then we give specialist training for particular projects.
+- particular projects
+  - Example: Specialist training is provided for particular projects.
+- use a database system
+  - Example: We train people in using our database system.
+- computer skills
+  - Example: I do have quite good computer skills.
+- dress requirement / dress code
+  - Example: Is there any sort of dress requirement?
+- wear a name badge
+  - Example: All staff have to wear a name badge.
+- be identified
+  - Example: Staff must wear a name badge so they can be identified outside staff-only areas.
+- staff-only areas
+  - Example: Staff must wear badges if they go outside the staff-only areas.
+- regulations
+  - Example: Apart from that, there aren’t many regulations.
+- sign in and sign out
+  - Example: We ask you to sign in and sign out for insurance purposes.
+- for insurance purposes
+  - Example: You need to sign in and out for insurance purposes.
+- live locally
+  - Example: Do you live locally?
+- reimburse (part of) travel expenses
+  - Example: We can reimburse part of your travel expenses if you come by bus.
+- come by car
+  - Example: Would that be the same if I came by car?
+- parking is a problem
+  - Example: No, because parking is such a problem here.
+- drive a minibus
+  - Example: We’re looking for someone who can drive a minibus.
+- involve going outside (the library)
+  - Example: Do the projects involve going outside the library?
+- work with photographs
+  - Example: We finished one project that involved working with photographs taken 50–100 years ago.
+- taken of the area
+  - Example: We used photographs taken of the area 50 or 100 years ago.
+- time-consuming work
+  - Example: Encapsulation is time-consuming work.
+- be grateful for (someone’s) help
+  - Example: We were very grateful to have help with it.
+- begin working on (an initiative)
+  - Example: Next year we’re hoping to begin working on an initiative.
+- sorting and labeling (objects)
+  - Example: The initiative involves the sorting and labeling of objects relating to local history.
+- relating to (local history)
+  - Example: We’ll sort objects relating to local history.
+- need help with (the cataloging)
+  - Example: We’ll be needing help with the cataloging.
+- be interested (in something)
+  - Example: I’d definitely be interested.
+- at present
+  - Example: How about at present?
+- support those who are unable to (read)
+  - Example: We have a team who work to support those who are unable to read.
+- the blind / people with reading difficulties
+  - Example: We work with the blind and others who have reading difficulties.
+- provide volunteers with equipment
+  - Example: We provide volunteers with equipment so they can read books onto CDs.
+- take (books) home
+  - Example: Volunteers can take books home with them.
+- read aloud (onto CDs)
+  - Example: Volunteers read them aloud onto CDs.
+- build up a collection
+  - Example: We’re gradually building up a collection that can be lent out.
+- be lent to (someone)
+  - Example: The CDs can be lent to those who need them.
+- get the chance to (meet people)
+  - Example: I’d like work where I can get the chance to meet people.
+- regular staff
+  - Example: Reading stories to children is done by our regular staff.
+- long-established scheme
+  - Example: We have a long-established scheme for people without direct access to the library.
+- have direct access (to)
+  - Example: Helping those who are unable to have direct access to the library.
+- trolley of books
+  - Example: I noticed someone with a trolley of books at the hospital.
+- that sort of thing
+  - Example: That sort of thing is one of our most popular services.
+- most popular service
+  - Example: It’s one of our most popular services.
+- wouldn’t dream of (doing something)
+  - Example: People who wouldn’t dream of going to the library borrow a book when the trolley comes around.
+- come around (the ward)
+  - Example: They borrow a book when the trolley comes around the ward.
+- enroll
+  - Example: So, how do I enroll?
+- commit oneself to (a regular period)
+  - Example: We ask all volunteers to commit themselves to a regular period each week.
+- take on too much
+  - Example: Be careful not to take on too much.
+- a couple of afternoons
+  - Example: We need someone for a couple of afternoons from 2 to 4.
+- application form
+  - Example: Here’s the application form.
+- ask the usual questions
+  - Example: It asks the usual questions—name, address, and telephone number.
+- get in touch with (someone)
+  - Example: Fill in details of who we should get in touch with in case of any accident.
+- in case of (an accident/a problem)
+  - Example: Provide a contact in case of any accident or problem.
+- fill in (a form)
+  - Example: We do need to have that filled in.
+- date of birth
+  - Example: There’s a space for date of birth.
+- ask for qualifications
+  - Example: Oh, it asks for qualifications.
+- provide certificates
+  - Example: Do I need to provide certificates?
+- names of two referees
+  - Example: We’ll need the names of two referees.
+- not relatives or family members
+  - Example: Not relatives or family members, obviously.
+- signature of parent or guardian
+  - Example: Signature of parent or guardian won’t be necessary.
+- over 18 / over 75
+  - Example: That won’t be necessary as I assume you’re over 18; date of birth is only if you’re over 75.
+- conviction check (criminal record check)
+  - Example: That’s a conviction check we must provide by law for those working with children.
+- by law
+  - Example: It’s a document we have to provide by law.
+- work on projects involving (children)
+  - Example: We need that check for people working on projects involving children.
+- in your case
+  - Example: We won’t need it in your case.
+- sign a separate document
+  - Example: You will need to sign this separate document.
+- agreement to work according to (guidelines)
+  - Example: It’s an agreement to work according to the library guidelines.
+- take it home
+  - Example: You can fill this in here or take it home.
+
+### Section 2 – Whale-watching trip and safety
+- give instructions (to a group)
+  - Example: You will hear a guide giving instructions to a group of international students.
+- be ready to (go looking for whales)
+  - Example: Are you all ready to go looking for whales?
+- rubber boat
+  - Example: We’ll be using these two rubber boats.
+- the trip will take (three hours)
+  - Example: Our trip today will take three hours.
+- head into (part of the rainforest)
+  - Example: We’ll be heading into part of the largest temperate rainforest.
+- show (you) our route (on the map)
+  - Example: I’ll show you our route on the map.
+- leave the sheltered bay
+  - Example: We’ll be leaving the sheltered bay.
+- head out across (the mouth of the bay)
+  - Example: Then heading out across the mouth of the bay.
+- open water
+  - Example: We can’t go into the open water today.
+- strong winds (in the area)
+  - Example: Last night there were strong winds in the area.
+- quite rough (water/sea)
+  - Example: Near the mouth, the water will be quite rough.
+- most likely to spot (orcas)
+  - Example: That’s where we’re most likely to spot orcas.
+- calmer, shallower waters
+  - Example: After that we’ll enter the calmer, shallower waters.
+- look for (gray whales)
+  - Example: This is where you look for gray whales.
+- narrow inlet
+  - Example: We will continue up this narrow inlet.
+- close to the shore
+  - Example: We’ll travel close to the shore.
+- have a great view (of)
+  - Example: You will have a great view of giant fir and cedar trees.
+- watch for wildlife
+  - Example: Here is the place to watch for wildlife.
+- be likely to see (bears/eagles)
+  - Example: You are likely to see bears along the shore and eagles overhead.
+- hot springs
+  - Example: Right at the back of the inlet are the hot springs.
+- a soothing soak
+  - Example: You can have a soothing soak in bubbling hot water.
+- return trip
+  - Example: Before the return trip, we’ll stop for an hour.
+- tell you a little bit about
+  - Example: I’ll tell you a little bit about the whales now.
+- won’t be able to (hear much)
+  - Example: You won’t be able to hear much out there.
+- head out (in the boat)
+  - Example: As we head out in the boat, we will probably see dolphins first.
+- swim right beside (the boat)
+  - Example: They will swim right beside the boat.
+- jump out of the water
+  - Example: Sometimes jumping out of the water just ahead of us.
+- playful and curious
+  - Example: Dolphins are playful and curious.
+- members of the (dolphin) family
+  - Example: Orcas are actually members of the dolphin family.
+- distinctive black and white (color/markings)
+  - Example: We identify them by their distinctive black and white color.
+- feed mainly on (salmon)
+  - Example: They feed mainly on salmon in these waters.
+- be called (killer whales)
+  - Example: This is why they are called killer whales.
+- start watching for (them)
+  - Example: We should start watching for them as soon as we get to open water.
+- spot (from a considerable distance)
+  - Example: We’re likely to spot the orcas from a considerable distance.
+- spout from (blowholes)
+  - Example: Watch for mist spouting from their blowholes.
+- migratory (species)
+  - Example: Gray whales are migratory.
+- pass through (twice a year)
+  - Example: They pass through here twice a year.
+- warm southern waters
+  - Example: They move to the warm southern waters where they breed.
+- reported in the area
+  - Example: Several have been reported in the area.
+- mother with a calf
+  - Example: You may see a mother with a calf.
+- much longer and heavier
+  - Example: Gray whales are much longer and heavier than orcas.
+- weigh up to (30 tons)
+  - Example: They can weigh up to 30 tons.
+- filter feeders
+  - Example: The gray whales are filter feeders.
+- gather (ghost shrimp) from (the sand)
+  - Example: They gather tiny ghost shrimp from the sand at the bottom.
+- recognize (whales) from (their tail fins)
+  - Example: We recognize grays from their tail fins.
+- come up as close as (we can) safely
+  - Example: We’ll come up as close as we can safely.
+- allowed to approach (no closer than 50 m)
+  - Example: We are allowed to approach no closer than 50 meters.
+- in the presence of (animals this big)
+  - Example: It feels pretty close in the presence of animals this big.
+- downwind (of them)
+  - Example: If we are downwind, we might be able to smell them.
+- words of caution
+  - Example: Now, for just a few words of caution.
+- quite bouncy (out there)
+  - Example: It will be quite bouncy out there.
+- smoother ride
+  - Example: If you want a smoother ride, stay in the middle of the boat.
+- hold on to (the ropes)
+  - Example: Hold on to the ropes.
+- keep an eye on (big waves)
+  - Example: Keep an eye on any big waves.
+- be alert
+  - Example: Be alert so you don’t get thrown out of the boat.
+- in case of an emergency
+  - Example: In case of an emergency, you are all wearing survival suits.
+- survival suit
+  - Example: The survival suits will keep you warm and dry.
+- bright orange for visibility
+  - Example: They are bright orange for visibility.
+- only last (a few minutes)
+  - Example: Without these suits, you would only last a few minutes.
+- increase (survival time) dramatically
+  - Example: With these suits, your survival time is increased dramatically.
+- keep you upright (in the water)
+  - Example: They will keep you upright in the water even if you can’t swim.
+- end up (in the water)
+  - Example: We don’t expect anybody to end up in the water.
+- be afraid of getting (seasick)
+  - Example: I’m afraid of getting seasick.
+- take a patch / put it on (your wrist)
+  - Example: Take one of these patches and put it on your wrist.
+- pressure points
+  - Example: It works on pressure points of the body.
+- relieve (seasickness)
+  - Example: The patch will relieve seasickness without drowsiness.
+- drowsiness from (pills)
+  - Example: It avoids the drowsiness you can get from pills.
+- load up (the boats)
+  - Example: Let’s start loading up the boats.
+
+### Section 3 – University assignment and reading
+- speak to (someone) for a minute
+  - Example: Excuse me, may I speak to you for a minute?
+- take a course (in)
+  - Example: I’m taking your course in population studies.
+- how can I help you?
+  - Example: Well, Melanie, how can I help you?
+- have trouble with (an assignment)
+  - Example: I’m having a bit of trouble with the second assignment.
+- due in (12 days)
+  - Example: It’s due in 12 days.
+- assignment question
+  - Example: Is the assignment question a problem?
+- get hold of (the books)
+  - Example: I’ve been having trouble getting hold of the books.
+- be out (of the library)
+  - Example: I’ve been to the library and all the books are out.
+- start (borrowing) earlier
+  - Example: Sounds like you should have started borrowing earlier.
+- spend (all) my time on (something)
+  - Example: I’ve been spending all my time on another course.
+- get an extension (of time)
+  - Example: I thought I might get an extension of time.
+- medical or compassionate reasons
+  - Example: Extensions are normally given only for medical or compassionate reasons.
+- organize your study
+  - Example: Otherwise it’s a question of organizing your study.
+- plan (your) work properly
+  - Example: We don’t like giving extensions to students who didn’t plan their work properly.
+- do well (in an assignment)
+  - Example: You did very well indeed.
+- produce good work
+  - Example: Obviously you can produce good work.
+- extra time
+  - Example: I don’t think I’ll need too much extra time.
+- important references
+  - Example: As long as I can get hold of some of the important references.
+- give you an extra two weeks
+  - Example: I’m prepared to give you an extra two weeks for this one.
+- submit (it) about a month from now
+  - Example: You’ll need to submit it about a month from now.
+- reading materials
+  - Example: What about the reading materials?
+- check out (journal articles)
+  - Example: Have you checked out the journal articles?
+- most useful / most important
+  - Example: I wasn’t sure which ones would be most useful.
+- deal with (the same issues)
+  - Example: A number of them deal with the same issues.
+- give (you) some suggestions
+  - Example: Let me give you some suggestions.
+- worth reading
+  - Example: The article by Anderson and Hawker is worth reading.
+- research methodology
+  - Example: Look at the part on the research methodology.
+- if you have time
+  - Example: If you have time, the one by Roberts is relevant.
+- not essential
+  - Example: It’s relevant, although not essential.
+- bother with (something)
+  - Example: I wouldn’t bother with Morris at this stage.
+- in a way
+  - Example: Cooper is important in a way.
+- discuss the research results
+  - Example: Just look at the last part where he discusses the research results.
+- can’t think why (I included it)
+  - Example: I can’t think why I included Forester.
+- of some help
+  - Example: It could be of some help, but not that much.
+- deal with (the assignment question)
+  - Example: Now let’s deal with the assignment question.
+- bar graph (showing reasons)
+  - Example: It’s the bar graph showing reasons why people change where they live.
+- photocopy (is missing …)
+  - Example: I’ve got a photocopy, but the reasons at the bottom are missing.
+- indicate the number (of people)
+  - Example: The first bar indicates the number of people who want more space.
+- move away (to somewhere quieter)
+  - Example: People chose to move away to somewhere quieter.
+- proximity to the city (is an issue)
+  - Example: Proximity to the city is an issue.
+- fix things that go wrong
+  - Example: Problems arise when the owner won’t help fix things that go wrong.
+- in other words
+  - Example: In other words, the owner is not helpful.
+- tenants move out
+  - Example: The tenants move out when the owner won’t help.
+- need a bus or train (to get into the city)
+  - Example: Some people move because they need a bus or train to get into the city.
+- attractive neighborhood
+  - Example: People moved to be in a more attractive neighborhood.
+
+### Section 4 – Artificial gills talk
+- give a talk (at a convention)
+  - Example: You will hear a woman giving a talk at a popular science convention.
+- describe research (into)
+  - Example: She is describing research into artificial gills.
+- enable (humans) to (breathe underwater)
+  - Example: Artificial gills are designed to enable humans to breathe underwater.
+- explore the idea (of)
+  - Example: I’ll be exploring the idea of artificial gills.
+- introduce the concept
+  - Example: I’ll start by introducing the concept.
+- technological applications
+  - Example: Then I’ll explain the technological applications.
+- conduct an experiment
+  - Example: Including a short, simple experiment I conducted.
+- take in oxygen (from the atmosphere)
+  - Example: Mammals take in oxygen from the atmosphere.
+- by means of (their gills)
+  - Example: Fish take oxygen from water by means of their gills.
+- dream of (being able to)
+  - Example: Humans have always dreamt of being able to swim underwater like fishes.
+- without the help of (oxygen tanks)
+  - Example: Breathing without the help of oxygen tanks.
+- scuba diving
+  - Example: I don’t know whether any of you have done any scuba diving.
+- a real pain (informal)
+  - Example: It’s a real pain having to use all that equipment.
+- special training
+  - Example: You need special training.
+- generally agreed (that)
+  - Example: It’s generally agreed that tanks are too heavy and big.
+- move and work comfortably
+  - Example: Tanks make it hard to move and work comfortably underwater.
+- try a different tack
+  - Example: Scientists are trying a different tack.
+- carry an oxygen supply
+  - Example: Rather than carrying an oxygen supply, can we extract oxygen in situ?
+- extract oxygen in situ
+  - Example: Wouldn’t it be possible to extract oxygen in situ?
+- directly from (the water)
+  - Example: Extract oxygen directly from the water while swimming.
+- underwater explorer
+  - Example: The famous underwater explorer predicted surgery could equip humans with gills.
+- equip (humans) with (gills)
+  - Example: Surgery could be used to equip humans with gills.
+- bypass the lungs
+  - Example: He believed our lungs could be bypassed.
+- go to extremes
+  - Example: Most of us would prefer not to go to such extremes.
+- fairly simple technologies
+  - Example: I’ve been looking at fairly simple technologies.
+- practical artificial gill
+  - Example: Ways to produce a simple, practical artificial gill.
+- look at the way (animals) handle (this)
+  - Example: Scientists looked at the way different animals handled this.
+- move down / float up (to the surface)
+  - Example: How fish move down and float up using swim bladders.
+- inflatable sacks (swim bladders)
+  - Example: Fish use inflatable sacks called swim bladders.
+- contrive to (stay underwater)
+  - Example: Beetles contrive to stay underwater using air bubbles.
+- animal adaptations
+  - Example: By looking at these animal adaptations, inventors got ideas.
+- come up with (artificial gills)
+  - Example: Inventors began to come up with their own artificial gills.
+- crude gill
+  - Example: Making a crude gill is rather easy.
+- watertight box
+  - Example: You take a watertight box permeable to gas.
+- permeable to gas
+  - Example: The material is permeable to gas.
+- fix (it) to (the diver’s face)
+  - Example: Fix it to the diver’s face and go down underwater.
+- crucial factor
+  - Example: A crucial factor is keeping the water moving.
+- keep the water moving
+  - Example: The diver has to keep the water moving.
+- be in contact with (the gill)
+  - Example: Water high in oxygen must be in contact with the gill.
+- stay still
+  - Example: The diver can’t really stay still.
+- maximize contact
+  - Example: To maximize contact, the gill needs a big surface area.
+- surface area
+  - Example: It’s necessary for your gill to have a big surface area.
+- address a problem (in different ways)
+  - Example: Designers have addressed this problem in different ways.
+- lattice/network of tiny tubes
+  - Example: Many use a lattice of tiny tubes as part of their gills.
+- breathe in and out
+  - Example: The diver is able to breathe in and out.
+- pass through (the outer walls)
+  - Example: Oxygen passes through the outer walls of the gill.
+- be expelled (CO2)
+  - Example: Carbon dioxide is expelled.
+- in a nutshell
+  - Example: In a nutshell, that’s how the artificial gill works.
+- create (my) own
+  - Example: I decided to create my own artificial gill.
+- follow the procedure
+  - Example: I followed the procedure I described.
+- work pretty well
+  - Example: It worked pretty well.
+- try (it) out (in the pool)
+  - Example: When I tried it out in the swimming pool, I lasted 40 minutes.
+- last underwater (for X minutes)
+  - Example: I lasted underwater for nearly 40 minutes.
+- basic idea works well
+  - Example: The basic idea works well, but there’s a limitation.
+- descend to (any great depth)
+  - Example: They don’t work as you descend to any great depth.
+- pressure builds
+  - Example: The pressure builds and causes other problems.
+- overcome (problems)
+  - Example: Research is being done into how these problems might be overcome.
+- have high hopes for (something)
+  - Example: Many people have high hopes for the artificial gill.
+- applications beyond (enabling an individual)
+  - Example: It may have applications beyond enabling an individual to stay underwater.
+- provide oxygen for (submarines)
+  - Example: The same technology might provide oxygen for submarines.
+- stay submerged (for months on end)
+  - Example: Submarines could stay submerged for months on end.
+- resort to (dangerous technologies)
+  - Example: Without resorting to potentially dangerous technologies such as nuclear power.
+- derived from (the water)
+  - Example: Use oxygen derived from the water as energy for fuel cells.
+- power machinery (underwater)
+  - Example: Fuel cells could power machinery underwater such as robotic devices.
+- great potential
+  - Example: This is an area of technology with great potential.
+
+If you want, I can convert these into a compact Notion database with columns (Collocation | Example | Section), or filter for specific patterns like verb + noun, adjective + noun, or verb + preposition.
