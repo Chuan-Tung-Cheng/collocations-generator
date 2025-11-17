@@ -32,9 +32,9 @@ This project contains two Python scripts:
 ```
 your_project/
 ├── transcript/         # All transcript .txt files
-├── Markdown/           # AI-generated collocation .md output
-├── main_transcript.py  # Script for downloading transcripts
-├── collocation_ai.py   # Script for generating collocations
+├── markdown/           # AI-generated collocation .md output
+├── youtube_transcript.py  # Script for downloading transcripts
+├── collocations_chatgpt_api.py   # Script for generating collocations
 └── README.md
 ```
 
@@ -45,8 +45,8 @@ your_project/
 ### 0. Clone the Repository
 
 ```
-git clone <repository_url>
-cd <repository_folder>
+git clone https://github.com/Chuan-Tung-Cheng/collocations-generator.git
+cd collocations-generator
 ```
 
 ### 1. Install Dependencies
