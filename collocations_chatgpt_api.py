@@ -9,7 +9,7 @@ ROOT_DIR = Path(__file__).resolve().parents[0]
 load_dotenv()
 OPENAI_API_KEY = os.getenv("OPENAI_KEY")
 TARGET_FILE = ROOT_DIR / "transcript" / "IELTS LISTENING PRACTICE TEST 2025 WITH ANSWERS | 16.11.2025 2025-11-17.txt"
-MARKDOWN_PATH = ROOT_DIR / "Markdown"
+MARKDOWN_PATH = ROOT_DIR / "markdown"
 MARKDOWN_PATH.mkdir(parents=True, exist_ok=True)
 
 MODEL = "gpt-5"
@@ -53,7 +53,7 @@ def main():
     result = create_collocations(client, transcript)
 
     print("\nHas generated collocations!")
-    print("Save to Markdown ...")
+    print("Save to markdown ...")
 
     # save as MD file that can be uploaded to Notion
     markdown_file = MARKDOWN_PATH / f"IELTS_{datetime.today().date()}.md"
